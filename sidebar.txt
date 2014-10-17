@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oso:home|Door43 (oso)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oso|d43-oso repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oso/archive/master.zip|d43-oso.zip]]
+
+**Recent Changes**
+{{changes>ns = oso}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oso|Ethnologue data]]
+
