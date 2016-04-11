@@ -1,0 +1,22 @@
+====== Ashkelon ======
+
+===== Facts: =====
+
+In Bible times, Ashkelon was a major Philistine city located on the coast of the Mediterranean Sea. It still exists in Israel today.
+
+  * It was one of the five most important Philistine citites: Ashdod, Ashkelon, Ekron, Gath, and Gaza.
+  * The Israelites did not completely conquer the people of Ashkelon even though the kingdom of Judah occupied its hill country.
+  * Ashkelon remained occupied by the Philistines for hundreds of years.
+  * In the time of Samson,  this city was still occupied by the Philistines and he killed thirty men there.
+
+(Translation suggestions: [[:oso:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:oso:obe:other:ashdod]], [[:oso:obe:other:canaan]], [[:oso:obe:other:ekron]], [[:En:obe:other:gath]], [[:oso:obe:other:gaza]], [[:oso:obe:other:philistines]], [[:oso:obe:other:samson]])
+
+===== Bible References: =====
+
+{{topic>ashkelon&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish review}}

@@ -1,0 +1,34 @@
+====== Promised Land ======
+
+===== Facts: =====
+
+The term "Promised Land" only occurs in the Bible Stories, not the Bible text. It is an alternate way of referring to the land of Canaan which God had promised to give to Abraham and his descendants.
+
+  * When Abram was living in the city of Ur, God commanded him to go live in the land of Canaan. He and his descendants, the Israelites, lived there for many years.
+  * When a severe famine caused there to be no food in Canaan, the Israelites moved to Egypt.
+  * Four hundred years later, God rescued the Israelites from slavery in Egypt and brought them back to Canaan again, the land God had promised to give them.
+
+===== Translation Suggestions: =====
+
+  * The term "Promised Land" can be translated as the "land that God said he would give to Abraham" or "land that God promised to Abraham" or "land God promised to his people" or "land of Canaan."
+  * In the Bible text, this term occurs as some form of, "the land God promised."
+
+
+(See also: [[:oso:obe:other:canaan|Canaan, Canaanite]], [[:oso:obe:kt:promise]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?promisedland&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:oso:obs:notes:frames:12-01|[12-01]]]** They (Israelites) were no longer slaves, and they were going to the **Promised Land**!
+  * **[[:oso:obs:notes:frames:14-01|[14-01]]]** After God had told the Israelites the laws he wanted them to obey as part of his covenant with them, God began leading them from Mount Sinai toward the **Promised Land**, which was also called Canaan.
+  * **[[:oso:obs:notes:frames:14-02|[14-02]]]** God had promised Abraham, Isaac, and Jacob that he would give the **Promised Land**  to their descendants, but now there were many people groups living there.
+  * **[[:oso:obs:notes:frames:14-14|[14-14]]]** Then God led the people to the edge of the **Promised Land**  again.
+  * **[[:oso:obs:notes:frames:15-02|[15-02]]]** The Israelites had to cross the Jordan River to enter into the **Promised Land**.
+  * **[[:oso:obs:notes:frames:15-12|[15-12]]]** After this battle, God gave each tribe of Israel its own section of the **Promised Land**.
+  * **[[:oso:obs:notes:frames:20-09|[20-09]]]** This period of time when God's people were forced to leave the **Promised Land**  is called the Exile.
+~~DISCUSSION~~{{tag>publish ktobs ktlink}
+
+~~NOCACHE~~

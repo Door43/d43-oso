@@ -1,0 +1,36 @@
+====== apostle, apostleship ======
+
+===== Definition: =====
+
+The "apostles" were men sent by Jesus to preach about God and his kingdom. The term "apostleship" refers to the position and authority of those who were chosen as apostles.
+
+  * The word "apostle" means, "someone who is sent out for a special purpose." The apostle has the same authority as the one who sent him.
+  * Jesus' twelve closest disciples became the first apostles. Other men, such as Paul and James, also became apostles.
+  * By God's power, the apostles were able to boldly preach the gospel and heal people, including forcing demons to come out of people.
+
+
+===== Translation Suggestions: =====
+
+  * The word "apostle" can also be translated with a word or phrase that means, "someone who is sent out" or "sent out one" or "person who is called to go out and preach God's message to people."
+  * It is important to translate the terms "apostle" and "disciple" in different ways from each other.
+  * Also consider how this term was translated in a Bible translation in a local or national language. (See [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also: [[:oso:obe:kt:authority]], [[:oso:obe:kt:disciple]], [[:oso:obe:other:jamessonofzebedee]], [[:oso:obe:other:paul]], [[:oso:obe:kt:thetwelve]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?apostle&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:oso:obs:notes:frames:26-10|[26-10]]]** Then Jesus chose twelve men who were called his **apostles**. The **apostles**  traveled with Jesus and learned from him.
+  * **[[:oso:obs:notes:frames:30-01|[30-01]]]** Jesus sent his **apostles**  to preach and to teach people in many different villages.
+  * **[[:oso:obs:notes:frames:38-02|[38-02]]]** Judas was one of Jesus' **apostles**. He was in charge of the **apostles'**  money bag, but he loved money and often stole from the bag.
+  * **[[:oso:obs:notes:frames:43-13|[43-13]]]** The disciples devoted themselves to the **apostles'**  teaching, fellowship, eating together, and prayer.
+  * **[[:oso:obs:notes:frames:46-08|[46-08]]]** Then a believer named Barnabas took Saul to the **apostles**  and told them how Saul had preached boldly in Damascus.
+
+
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~

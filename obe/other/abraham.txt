@@ -1,0 +1,32 @@
+====== Abraham, Abram ======
+
+===== Facts: =====
+
+Abram was a Chaldean man from the city of Ur who was chosen by God to be the forefather of the Israelites. God changed his name to "Abraham."
+
+  * The name "Abram" means "exalted father"
+  * "Abraham" means, "father of many."
+  * God promised Abraham that he would have many descendants, who would become a great nation.
+  * Abraham believed God and obeyed him. God led Abraham to move from Chaldea to the land of Canaan.
+  * While living in the land of Canaan, when they were very old, Abraham and his wife Sarah had a son, Isaac.
+
+(Translation suggestions: [[:oso:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:oso:obe:other:canaan]], [[:oso:obe:other:chaldea]], [[:oso:obe:other:sarah|Sarah, Sarai]], [[:oso:obe:other:isaac|Isaac]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?abraham&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:oso:obs:notes:frames:04-06|[04-06]]]** When **Abram**  arrived in Canaan, God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
+  * **[[:oso:obs:notes:frames:05-04|[05-04]]]** Then God changed **Abram**'s name to **Abraham**, which means "father of many."
+  * **[[:oso:obs:notes:frames:05-05|[05-05]]]** About a year later, when **Abraham**  was 100 years old and Sarah was 90, Sarah gave birth to Abraham's son.
+  * **[[:oso:obs:notes:frames:05-06|[05-06]]]** When Isaac was a young man, God tested **Abraham's**  faith by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
+  * **[[:oso:obs:notes:frames:06-01|[06-01]]]** When **Abraham**  was very old and his son, Isaac, had grown to be a man, **Abraham**  sent one of his servants back to the land where his relatives lived to find a wife for his son, Isaac.
+  * **[[:oso:obs:notes:frames:06-04|[06-04]]]** After a long time, **Abraham**  died and all of the promises that God had made to him in the covenant were passed on to Isaac.
+  * **[[:oso:obs:notes:frames:21-02|[21-02]]]** God promised **Abraham**  that through him all people groups of the world would receive a blessing.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~

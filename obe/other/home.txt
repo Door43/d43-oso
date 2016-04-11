@@ -1,0 +1,9 @@
+====== List of the Other Terms in the OBE Directory ======
+
+~~NOCACHE~~
+
+Link to [[:oso:obe:kt:home]] \\ 
+Link to [[:oso:obe:home]]
+
+
+<nspages oso:obe:other -title -exclude:home -textPages="">

@@ -1,0 +1,29 @@
+====== Judas Iscariot ======
+
+===== Facts: =====
+
+Judas Iscariot was one of Jesus' twelve apostles. He was the one who betrayed Jesus to the Jewish leaders.
+
+  * The name "Iscariot" may mean "from Kerioth," perhaps referring to the city where Judas grew up.
+  * Judas Iscariot was a thief; he managed the apostles' money and regularly stole some of it to use for himself.
+  * Judas betrayed Jesus by telling the religious leaders where Jesus was so they could arrest him.
+  * After the religious leaders condemned Jesus to die, Judas regretted that he had betrayed Jesus, so he killed himself.
+  * There are other men named Judas in the Bible, such as Jesus' brother and another of the twelve disciples.
+
+(Translation suggestions: [[:oso:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:oso:obe:kt:apostle|apostle, apostleship]], [[:oso:obe:kt:betray|betray, betrayer]], [[:oso:obe:other:jewishleaders|Jewish leaders, religious leaders]], [[:oso:obe:other:judassonofjames]] ))
+
+===== Bible References: =====
+
+{{topic>:en:bible?Judasiscariot&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:oso:obs:notes:frames:38-02|[38-02]]]** One of Jesus' disciples was a man named **Judas**. … After Jesus and the disciples arrived in Jerusalem, **Judas**  went to the Jewish leaders and offered to betray Jesus to them in exchange for money.
+  * **[[:oso:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the high priest, paid **Judas**  thirty silver coins to betray Jesus.
+  * **[[:oso:obs:notes:frames:38-14|[38-14]]]****Judas**  came with the Jewish leaders, soldiers, and a large crowd. They were all carrying swords and clubs. **Judas**  came to Jesus and said, "Greetings, teacher," and kissed him.
+  * **[[:oso:obs:notes:frames:39-08|[39-08]]]** Meanwhile, **Judas**, the betrayer, saw that the Jewish leaders had condemned Jesus to die. He became full of sorrow and went away and killed himself.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~

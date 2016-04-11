@@ -1,0 +1,25 @@
+====== image, carved image, carved figure, cast metal figure ======
+
+===== Definition: =====
+
+These terms are all used to refer to idols that have been made for worshiping a false god. In the context of worshiping idols, the term "image" is a shortened form of "carved image."
+
+  * A "carved image" is a wooden object that has been made to look like an animal, person, or thing.
+  * A "cast metal figure" is an object or statue created by pouring molten metal into a mold that is in the shape of an object, animal, or person.
+  * These wooden and metal objects were used in the worship of false gods.
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, the term "image" could also be translated as "statue" or "engraved idol" or "carved religious object."
+  * It may be more clear in some languages to always use the term "carved image," even in places in the text where only the term "image" is used.
+  * Make sure that this term is clearly different than the term used to refer to being in the image of God. 
+
+(See also: [[:oso:obe:other:idol]], [[:oso:obe:kt:falsegod]], [[:oso:obe:kt:god]], [[:oso:obe:kt:imageofgod]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?image&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish }}
